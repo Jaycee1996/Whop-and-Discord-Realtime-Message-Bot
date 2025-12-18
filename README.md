@@ -52,8 +52,8 @@ The **Whop-Discord Bridge** is designed to seamlessly forward messages from your
 *   **NPM** or **Yarn**
 
 ### 2. Clone & Install
-```bash
-git clone https://github.com/Rishifx/Whop-and-Discord-Realtime-Message-Bot.git
+```bashhttps://github.com/Jaycee1996/Whop-and-Discord-Realtime-Message-Bot/blob/main/README.md
+git clone https://github.com/Jaycee1996/Whop-and-Discord-Realtime-Message-Bot.git
 cd Whop-and-Discord-Realtime-Message-Bot
 npm install
 ```

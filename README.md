@@ -14,11 +14,6 @@
 </div>
 
 ---
-
-## 📖 Overview
-
-The **Whop-Discord Bridge** is designed to seamlessly forward messages from your Whop community to a configured Discord channel. It solves common integration challenges like duplicate messages, rate limiting, and media handling out of the box.
-
 ### ✨ Key Features
 
 | Feature | Description |

@@ -24,7 +24,6 @@
 | **🚦 Rate Limit Control** | Intelligent `500ms` throttling queue to respect Discord API limits. |
 | **🔐 Secure Config** | Enterprise-grade configuration using `.env` variables. |
 
-
 ## 📸 Proof of Concept
 
 > **Source:** Whop Chat
